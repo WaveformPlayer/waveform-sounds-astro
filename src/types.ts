@@ -15,7 +15,7 @@
  * `test/forwarding-drift.test.ts` is what catches a core option that
  * type-checks here but is never emitted.
  *
- * @see {@link https://github.com/arraypress/waveform-sounds} — the core
+ * @see {@link https://github.com/WaveformPlayer/waveform-sounds} — the core
  */
 
 import type { WaveformSoundsOptions } from '@arraypress/waveform-sounds';

@@ -6,7 +6,7 @@
 A searchable, filterable list of sound previews — server-rendered, then brought to life — with a mini waveform per row and one shared audio engine.
 
 [![npm version](https://img.shields.io/npm/v/@arraypress/waveform-sounds-astro?style=flat-square&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-sounds-astro)
-[![license](https://img.shields.io/npm/l/@arraypress/waveform-sounds-astro?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/arraypress/waveform-sounds-astro/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/@arraypress/waveform-sounds-astro?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/WaveformPlayer/waveform-sounds-astro/blob/main/LICENSE)
 
 **[Documentation](https://docs.waveformplayer.com/)** · [npm](https://www.npmjs.com/package/@arraypress/waveform-sounds-astro)
 
